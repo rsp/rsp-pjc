@@ -5,8 +5,8 @@ PJC
 C++ Examples with CI Tests -
 [internal project](https://github.com/rsp/rsp-internal#readme)
 
-* https://github.com/rsp/rsp-pjc-c01
-* https://github.com/rsp/rsp-pjc-c02
+* [PJC C01](https://github.com/rsp/rsp-pjc-c01)
+* [PJC C02](https://github.com/rsp/rsp-pjc-c02)
 
 Author
 ------
