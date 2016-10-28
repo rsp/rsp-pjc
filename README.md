@@ -5,8 +5,10 @@ PJC
 C++ Examples with CI Tests -
 [internal project](https://github.com/rsp/rsp-internal#readme)
 
-* [PJC C01](https://github.com/rsp/rsp-pjc-c01)
-* [PJC C02](https://github.com/rsp/rsp-pjc-c02)
+* [**PJC C01**](https://github.com/rsp/rsp-pjc-c01)
+* [**PJC C02**](https://github.com/rsp/rsp-pjc-c02)
+
+Created to test C++ code with GCC and Clang compilers using Travis and GitLab continuous integration systems.
 
 Author
 ------
