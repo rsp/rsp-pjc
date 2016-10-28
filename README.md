@@ -5,8 +5,8 @@ PJC
 C++ Examples with CI Tests -
 [internal project](https://github.com/rsp/rsp-internal#readme)
 
-* [**PJC C01**][github-c01-url] - [GitHub][github-c01-url], [Travis][travis-c01-url], [GitLab][gitlab-c01-url] (private repo)
-* [**PJC C02**][github-c02-url] - [GitHub][github-c02-url], [Travis][travis-c02-url], [GitLab][gitlab-c02-url] (private repo)
+* [**PJC C01**][github-c01-url] - [GitHub][github-c01-url], [Travis CI][travis-c01-url], [GitLab][gitlab-c01-url] (private repo), [GitLab CI][gitlabci-c01-url]
+* [**PJC C02**][github-c02-url] - [GitHub][github-c02-url], [Travis CI][travis-c02-url], [GitLab][gitlab-c02-url] (private repo), [GitLab CI][gitlabci-c01-url]
 
 Created to test C++ code with GCC and Clang compilers using Travis and GitLab continuous integration systems.
 
@@ -35,12 +35,16 @@ Author
 [github-c01-url]: https://github.com/rsp/rsp-pjc-c01
 [gitlab-c01-url]: https://gitlab.com/rsp/rsp-pjc-c01
 [travis-c01-url]: https://travis-ci.org/rsp/rsp-pjc-c01
+[gitlabci-c01-url]: https://gitlab.com/rsp/rsp-pjc-c01/builds
 [github-c02-url]: https://github.com/rsp/rsp-pjc-c02
 [gitlab-c02-url]: https://gitlab.com/rsp/rsp-pjc-c02
 [travis-c02-url]: https://travis-ci.org/rsp/rsp-pjc-c02
+[gitlabci-c02-url]: https://gitlab.com/rsp/rsp-pjc-c02/builds
 [github-c03-url]: https://github.com/rsp/rsp-pjc-c03
 [gitlab-c03-url]: https://gitlab.com/rsp/rsp-pjc-c03
 [travis-c03-url]: https://travis-ci.org/rsp/rsp-pjc-c03
+[gitlabci-c03-url]: https://gitlab.com/rsp/rsp-pjc-c03/builds
 [github-c04-url]: https://github.com/rsp/rsp-pjc-c04
 [gitlab-c04-url]: https://gitlab.com/rsp/rsp-pjc-c04
 [travis-c04-url]: https://travis-ci.org/rsp/rsp-pjc-c04
+[gitlabci-c04-url]: https://gitlab.com/rsp/rsp-pjc-c04/builds
