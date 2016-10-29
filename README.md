@@ -12,7 +12,9 @@ Created to test C++ code with GCC and Clang compilers using Travis and GitLab co
 
 Author
 ------
-[**Rafał Pocztarski**](https://pocztarski.com/)
+[**Rafał Pocztarski**]
+<br/>
+**https://pocztarski.com/**
 <br/>
 [![Follow on GitHub][github-follow-img]][github-follow-url]
 [![Follow on Twitter][twitter-follow-img]][twitter-follow-url]
